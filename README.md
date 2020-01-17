@@ -1,11 +1,10 @@
-# file-server
-The Web File Server in Java based on Jetty
+# file-server (Version 1.3)
+The Web File Server in Java based on Jetty Library
 
 # Features
-1. Proxy service download resources
-2. Proxy configuration
-3. Http/Https (SSL) configuration
-4. Multiple root domains
+1. Proxy service for download external resources
+2. Http/Https Proxy configuration for proxy service
+3. Http/Https (SSL) configuration for File Server
 
 # Requirements of Software
 1. JRE 1.8
